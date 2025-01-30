@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello mahesh
+=======
+hello mahesh
+>>>>>>> 40ef5b7a6f3d712c4b5ad2aee3bd27b97550431d
